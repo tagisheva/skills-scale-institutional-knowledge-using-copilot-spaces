@@ -38,3 +38,29 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Role Handoff Template
+When transitioning work between team members or roles:
+
+### Handoff Information
+- From: [Name, Role]
+- To: [Name, Role]
+- Date:
+- Project/Component:
+
+### Context Transfer
+- [ ] Current status and recent progress summarized
+- [ ] Outstanding tasks and priorities documented
+- [ ] Known issues, blockers, and risks identified
+- [ ] Dependencies and stakeholder contacts listed
+- [ ] Relevant documentation links provided (design docs, PRs, issues)
+- [ ] Access and credentials transferred (if applicable)
+- [ ] Handoff meeting scheduled and completed
+- [ ] Transition period agreed upon (if needed)
+- [ ] First task completed by new assignee and reviewed
+
+### Critical Information
+- What's working well:
+- What needs immediate attention:
+- Key stakeholders to engage:
+- Next milestones:

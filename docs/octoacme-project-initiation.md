@@ -41,3 +41,15 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Team Member Onboarding Checklist
+When a new team member joins the project:
+- [ ] Access granted to repository, project board, and communication channels
+- [ ] Project One-pager reviewed and understood
+- [ ] Introduced to team members and stakeholders
+- [ ] Role responsibilities and expectations clarified (see [Roles and Personas](./octoacme-roles-and-personas.md))
+- [ ] Development environment setup (if applicable)
+- [ ] Review project documentation (README, decision logs, risk register)
+- [ ] Attend team standup and weekly sync
+- [ ] Assigned an onboarding buddy or mentor
+- [ ] First contribution or task completed and reviewed
