@@ -41,3 +41,28 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Cross-Team Collaboration Template
+When collaborating with other teams or external stakeholders:
+
+### Collaboration Agreement
+- Teams involved:
+- Primary contacts from each team:
+- Collaboration objective:
+- Timeline and key milestones:
+
+### Communication Plan
+- [ ] Regular sync meeting scheduled (frequency: _______)
+- [ ] Shared communication channel established
+- [ ] Escalation path defined
+- [ ] Decision-making process agreed upon
+
+### Deliverables & Dependencies
+- Team A delivers:
+- Team B delivers:
+- Critical dependencies identified:
+- Integration points documented:
+
+### Success Criteria
+- Collaboration is successful when:
+- Metrics to track:
